@@ -26,8 +26,8 @@ This repo is based on Makefiles using UNIX-like system
   <li>Two example functions func1 and func2 c files are created.</li>
   <li>Respective headers are created for func1 and func2 according to standards.</li>
   <li>The functions created are linked into a single main c file. </li>
-  <li>Makefile is constructed with the functions compile,run and clean. </li>
   <li>A bulid sub directory is created for the object files and executable </li>
+  <li>Makefile is constructed with the functions compile,run and clean. </li>
   </ul>
   
   ### Output observed on command window
